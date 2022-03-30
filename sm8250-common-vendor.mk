@@ -798,6 +798,7 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
     MotoDolbyV3 \
+    CACertService \
     CneApp \
     IWlanService \
     SoterService \
